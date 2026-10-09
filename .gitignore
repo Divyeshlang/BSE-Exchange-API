@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.db
+.env
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+.tsbuild/
+*.tsbuildinfo
